@@ -1,7 +1,7 @@
 # Notes
 ## Commands to create token
 ```
- 576  solana address
+  576  solana address
   577  solana-keygen new -o bosy1VC2BH2gh5fdXA3oKn53EuATLwapLWC4VR2sGHJ.json
   578  solana balance
   579  solana config get
@@ -12,3 +12,12 @@
   584  spl-token create-account mnttoKuzAjitkghajBwrGKBEJgM8yFbqAQsEypoWGJ5
   585  spl-token mint mnttoKuzAjitkghajBwrGKBEJgM8yFbqAQsEypoWGJ5 10000
 ```
+
+## token in devnet
+  https://explorer.solana.com/address/mnttoKuzAjitkghajBwrGKBEJgM8yFbqAQsEypoWGJ5?cluster=devnet
+
+## Counter in devnet
+  https://explorer.solana.com/address/6quBqtegVG5HRBZEvcCTxHgH6DivxnXmnYfoYvuC16Sc?cluster=devnet
+
+
+
